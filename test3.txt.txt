@@ -1,3 +1,2 @@
 test
 and the next test
-new line
