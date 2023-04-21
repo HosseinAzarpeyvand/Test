@@ -1,4 +1,2 @@
 test
 and the next test
-newline
-
